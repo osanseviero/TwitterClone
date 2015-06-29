@@ -1,0 +1,5 @@
+== README
+
+Project following the Rails Tutorial. 
+
+This is a Twitter Clone made with Rails from 0.
